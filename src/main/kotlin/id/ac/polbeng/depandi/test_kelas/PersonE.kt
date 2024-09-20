@@ -21,6 +21,6 @@ fun main(){
     val anton = PersonE("Leonel", "Messi")
     anton.cetakInfo()
     println()
-    val budi = PersonE("Budi", "Gunawah", 21)
+    val budi = PersonE("Budi", "Gunawan", 21)
     budi.cetakInfo()
 }
