@@ -23,6 +23,7 @@ class MyClassA: X,Y {
     }
 }
 
+
 fun main() {
     val obj = MyClassA()
     obj.demoX()
